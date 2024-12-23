@@ -8,3 +8,5 @@ linux612
 linux612-headers
 linux612-acpi_call
 manjaro-keyring
+tuxedo-control-center
+tuxedo-drivers-dkms
